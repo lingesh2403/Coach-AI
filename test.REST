@@ -1,0 +1,6 @@
+POST http://127.0.0.1:5000/getResponse
+Content-Type: application/json
+
+{
+    "userQuery": "Generate a wrkout routine for me"
+}
